@@ -21,4 +21,5 @@ Il notebook apple_notebook.ipynb mostra come sono stati addestrati i modelli:
 - Addestramento dei modelli
 - Salvataggio dei modelli (.pkl) nella cartella models/
 
-Nota: il notebook serve come riferimento o per riaddestrare i modelli, non è necessario per eseguire l’app.
+
+Nota: il notebook serve come riferimento o documentazione per riaddestrare i modelli, non è necessario per eseguire l’app.
